@@ -115,9 +115,7 @@ prediction = prediction_parser(file_path, model)
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [Your Email]
-
-Project Link: [https://github.com/yourusername/urban-sound-classification](https://github.com/yourusername/urban-sound-classification)
+Sanjaiganesh S - sanjaiganeshselvam@gmail.com
 
 ## Acknowledgements
 - UrbanSound8K Dataset
